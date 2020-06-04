@@ -5,7 +5,7 @@ class Landing extends Component {
 
 
     render() {
-        return {/* your code here */ }
+        return <div>welcome {this.props.user}</div>
 
     }
 }
